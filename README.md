@@ -13,3 +13,6 @@ Github est une plateforme d'hébergement de projets git.
 - git add .  ( le '.' est pour add tout le répertoire)
 - git commit -m "message de commit" (mettre un vrai msg)
 - git push origin main (pousser les modifications locales vers github)
+
+### Comment generer la cle ssh public:
+# projet_github
